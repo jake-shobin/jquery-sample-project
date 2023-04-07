@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jake-shobin/jquery-sample-project#readme",
   "dependencies": {
-    "jquery": "^3.6.4"
+    "jquery": "^1.9.1"
   }
 }
